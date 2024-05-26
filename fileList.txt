@@ -1,0 +1,2 @@
+//Just for the sake of testing the 8bpp Textures
+american ,STAGE00.PAC ,STDATA/STAGE00.PAC

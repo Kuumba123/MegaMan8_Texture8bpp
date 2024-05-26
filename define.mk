@@ -1,0 +1,1 @@
+LDFLAGS += src/symbol.ld

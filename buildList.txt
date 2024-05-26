@@ -1,0 +1,2 @@
+american, exe, 0x800f96c0, 0x0 , src/background.c
+american, exe, 0x800F9ED4, 0x0 , src/editor.c
